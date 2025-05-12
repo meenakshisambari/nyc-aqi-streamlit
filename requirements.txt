@@ -1,5 +1,6 @@
 streamlit
 pandas
 matplotlib
-datetime
-random
+numpy
+scikit-learn
+meteostat
